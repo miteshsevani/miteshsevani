@@ -1,0 +1,98 @@
+body {
+  background: #475C98 url("../images/misc/background_buildings.png");
+  margin-top: 35px; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #475C98;
+  font-family: "Bree Serif", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+p {
+  font-size: 14px;
+  font-family: Merriweather, Georgia, "Times New Roman", Times, serif;
+  line-height: 1.6em;
+  color: #586E75; }
+
+.container {
+  background: #fff;
+  -webkit-border-radius: 60px 60px 0 0;
+  -moz-border-radius: 60px 60px 0 0;
+  border-radius: 60px 60px 0 0; }
+
+.btn {
+  margin-top: 20px; }
+
+.photogrid img {
+  max-width: 100px;
+  margin: 6px; }
+
+header img {
+  margin: 10px 0 5px 25px;
+  max-width: 420px;
+  width: 100%; }
+  @media screen and (max-width: 420px) {
+    header img {
+      max-width: 320px; } }
+
+#nav.affix {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 10; }
+
+.dropdown-menu li a:hover {
+  background: #475C98;
+  color: #ffffff; }
+
+#venue h2 {
+  border-bottom: 1px dotted #586E75; }
+#venue h3 {
+  color: #7AA3CC; }
+
+#schedule .nav-tabs li a:hover {
+  background: #475C98;
+  color: #ffffff; }
+#schedule .nav-tabs li.active a:hover {
+  background: #475C98; }
+#schedule h3 {
+  color: #7AA3CC; }
+
+.panel-heading a, .panel-heading a:hover {
+  font-color: #ffffff !important; }
+
+aside h2 {
+  border-bottom: 1px dotted #586E75; }
+
+.scrollspy .nav {
+  background: #475C98;
+  margin-top: 20px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; }
+  @media screen and (max-width: 1200px) {
+    .scrollspy .nav {
+      width: 13%;
+      max-width: 120px;
+      text-align: center; } }
+  @media screen and (min-width: 980px) and (max-width: 1060px) {
+    .scrollspy .nav {
+      width: 13%;
+      max-width: 120px; } }
+.scrollspy li {
+  border-bottom: 1px solid #374775;
+  border-top: 1px solid #5e74b4; }
+  .scrollspy li a {
+    color: #ffffff; }
+  .scrollspy li.active {
+    background: #7AA3CC; }
+  .scrollspy li a:hover {
+    background: #7AA3CC; }
+  .scrollspy li:first-child {
+    border-top: none; }
+  .scrollspy li:last-child {
+    border-bottom: none; }
+
+footer p {
+  font-size: 12px;
+  margin-top: 35px;
+  color: #777777; }

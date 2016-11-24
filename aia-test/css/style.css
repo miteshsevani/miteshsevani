@@ -1,0 +1,92 @@
+.social-sprite, .social-facebook, .social-twitter, .social-youtube {
+  background-image: url('/images/social-s529b6d9518.png');
+  background-repeat: no-repeat; }
+
+.social-facebook {
+  background-position: 0 0; }
+
+.social-twitter {
+  background-position: 0 -59px; }
+
+.social-youtube {
+  background-position: 0 -118px; }
+
+body {
+  background: #000;
+  color: #fff; }
+
+header {
+  padding: 20px; }
+
+p {
+  line-height: 1.5em; }
+
+a, a:hover {
+  color: #83a649; }
+
+.navbar {
+  margin-bottom: 0px; }
+
+.navbar-inverse {
+  background-color: #3f3f3; }
+  .navbar-inverse .navbar-nav > .active > a {
+    color: green;
+    background: none; }
+
+.btn-default {
+  border-color: #fff; }
+
+input#search {
+  width: 400px;
+  border: 1px solid #fff; }
+
+section#banner {
+  background: #000;
+  background-image: url("../images/bacground.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 100%;
+  height: 470px;
+  text-align: center; }
+  section#banner p.banner-text {
+    font-size: 4.5em;
+    position: absolute;
+    top: 240px;
+    line-height: 1em; }
+
+@media only screen and (max-width: 767px) {
+  input#search {
+    width: 100%; }
+
+  section#banner {
+    height: 270px; } }
+section#banner-text-small {
+  background: #525252;
+  padding: 25px;
+  font-size: 2em; }
+
+span.red {
+  color: #cd1670; }
+
+div#social-icons {
+  height: 160px;
+  width: 44px;
+  position: absolute;
+  right: 0;
+  top: 140px;
+  background: url("../images/social-s529b6d9518.png");
+  background-repeat: no-repeat; }
+
+section#intro {
+  background: #525252;
+  padding: 25px; }
+
+section#promos {
+  background: #3f3f3f;
+  padding: 60px 0 25px 0; }
+  section#promos p {
+    padding: 20px; }
+
+footer {
+  margin-top: 50px;
+  font-size: 1.1em; }
