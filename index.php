@@ -156,7 +156,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4 col-sm-offset-2">
+                <div class="col-sm-6">
                     <a href="http://www.marguerite.com" target="_blank" class="portfolio-link">
                         <!--div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -171,7 +171,7 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-6">
                     <a href="http://www.saudidownstream.com" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/saudidownstream.png" class="img-responsive img-thumbnail" alt="Saudi Dowstream">
                     </a>
@@ -183,7 +183,7 @@
             </div>
             <div class="divider-5"></div>
             <div class="row">
-                <div class="col-sm-4 col-sm-offset-2">
+                <div class="col-sm-6">
                     <a href="http://www.hyauk.org" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/hya.png" class="img-responsive img-thumbnail" alt="Hindu Youth Association">
                     </a>
@@ -192,7 +192,7 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-6">
                     <a href="http://www.miteshsevani.com/roax-accademy/" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/roaxacademy.png" class="img-responsive img-thumbnail" alt="Roax Accademy">
                     </a>
