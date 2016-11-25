@@ -184,10 +184,12 @@ a.inline.first {
     -ms-transform: scale(0.9);
     -webkit-transform: scale(0.9);
     transform: scale(0.9); } }
-section h3.section-subheading {
+section h3.section-subheading,
+section h4.section-subheading {
   font-family: "Roboto", sans-serif;
   line-height: 1.7em;
-  font-size: 1.2em; }
+  font-size: 1.2em; 
+  margin-top: 2em;}
 
 #contact .form-group textarea.form-control {
   height: 150px !important; }

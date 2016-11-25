@@ -277,22 +277,26 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="section-heading">About Me</h2>
-                    <h3 class="section-subheading"><strong>Education</strong>
+                    <h4 class="section-subheading">Education</h4>
+                    <p>
                         <ol>
                             <li>S-VYASA Yoga University, Bangalore - Yoga Instructor Course, 2014</li>
                             <li>University of Westminister, London - MSc E-commerce with Online Databases, 2009</li>                            
                             <li>City University, London - BSc in Business Computing, 2007</li>
                         </ol>                    
-                    </h3>
-                    <h3 class="section-subheading"><strong>Voluntary Work</strong><br />I have been a member of Hindu Swayamsevak Sangh (HSS) since the age of 7, which is one of the largest voluntary organisations in the world. Activities include exercise, games and education sessions. Taking regular sessions with all age groups provides me with leadership, communication and organisational skills. Regular attendance has given me team working skills as well as professional development. I am involved in planning, organising and participating in various charity events, both at local and national level.</h3>
-                    <h3 class="section-subheading">I taught Maths and Gujarati for 3 years on a voluntarily basis at GCSE level on weekends. This allowed me to gain valuable skills in communication, leadership, organisation and professional development.</h3>                    
-                    <h3 class="section-subheading"><strong>Hobbies and Extra Curricular Activities</strong><br />Travelling is one of my main hobbies and interests. I enjoy experiencing various cultures and people and always take the opportunity to travel. I have visited many countries, highlight being India where I travelled thoughtout the country, visiting various charity projects and tribal areas.</h3>            
-                    <h3 class="section-subheading">Yoga is also one of my passions and I practice this regularly. I am a qualified Yoga teacher from S-VYASA university in Bangalore, India. I completed the one month Yoga Instructor Course in March 2014.</h3>
+                    </p>
+                    <h4 class="section-subheading">Voluntary Work</h4>
+                    <p>I have been a member of Hindu Swayamsevak Sangh (HSS) since the age of 7, which is one of the largest voluntary organisations in the world. Activities include exercise, games and education sessions. Taking regular sessions with all age groups provides me with leadership, communication and organisational skills. Regular attendance has given me team working skills as well as professional development. I am involved in planning, organising and participating in various charity events, both at local and national level.</p>
+                    <p>I taught Maths and Gujarati for 3 years on a voluntarily basis at GCSE level on weekends. This allowed me to gain valuable skills in communication, leadership, organisation and professional development.</p>
+
+                    <h4 class="section-subheading">Hobbies and Extra Curricular Activities</h4>
+                    <p>Travelling is one of my main hobbies and interests. I enjoy experiencing various cultures and people and always take the opportunity to travel. I have visited many countries, highlight being India where I travelled thoughtout the country, visiting various charity projects and tribal areas.</p>           
+                    <p>Yoga is also one of my passions and I practice this regularly. I am a qualified Yoga teacher from S-VYASA university in Bangalore, India. I completed the one month Yoga Instructor Course in March 2014.</p>
                     <div class="divider-4"></div>
                     <div class="span12">
                         <a class="inline first button btn-primary btn-lg" href="docs/CV_Mitesh_Sevani.pdf" target="_blank">View my CV</a></p>                        
                         <a href="https://uk.linkedin.com/pub/mitesh-sevani/1a/54b/5b1" target="_blank">
-                              <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" height="44" border="0" alt="View my profile on LinkedIn">
+                            <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" height="44" border="0" alt="View my profile on LinkedIn">
                         </a>
                     </div>
                 </div>
