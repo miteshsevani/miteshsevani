@@ -89,7 +89,7 @@
                 <div class="intro-heading">Web Developer</div>
                 <div class="row">
                     <div class="col col-lg-12">                        
-                            <p>5 years experience in web development</p>
+                            <p>6 years experience in web development</p>
                             <p>First class honours MSc in E‑Commerce with Online Databases</p>                                                        
                             <p>Qualified yoga instructor</p>    
                     </div>
@@ -136,7 +136,7 @@
                     <img src="images/logos/sass.png" height="120" data-toggle="tooltip" data-placement="bottom" title="SASS" />
                 </div>                                             
                 <div class="col-xs-6 col-sm-3">
-                    <img src="images/logos/compass.png" height="120" data-toggle="tooltip" data-placement="top" title="Compass" />
+                    <img src="images/logos/react-js.png" height="170" data-toggle="tooltip" data-placement="top" title="React JS" style="margin-top:1em;" />
                 </div>                                      
                 <div class="col-xs-6 col-sm-3">
                     <img src="images/logos/php.png" height="120" data-toggle="tooltip" data-placement="bottom" title="PHP - MySQL" />                                    
