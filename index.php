@@ -66,7 +66,7 @@
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#clients">Clients</a>
+                        <a class="page-scroll" href="#company">Clients</a>
                     </li>                    
                     <li>
                         <a class="page-scroll" href="#about">About</a>
