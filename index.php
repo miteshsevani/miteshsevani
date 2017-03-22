@@ -197,21 +197,6 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
-                <!--<div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" target="_blank" class="portfolio-link">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-arrow-right fa-3x"></i><br /><br />
-                                <i>Go to website</i>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/gym.png" class="img-responsive" alt="The Gym">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>The Gym</h4>
-                        <p class="text-muted"></p>
-                    </div>
-                </div>-->
             </div>
         </div>
     </section>                  
@@ -299,37 +284,6 @@
             </div>        
         </div>
     </section>
-
-
-    <!-- Clients Aside -->
-    <!--
-    <aside class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-3 col-sm-6">
-                    <a href="#">
-                        <img src="images/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-3 col-sm-6">
-                    <a href="#">
-                        <img src="images/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-3 col-sm-6">
-                    <a href="#">
-                        <img src="images/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-3 col-sm-6">
-                    <a href="#">
-                        <img src="images/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </aside>
-    -->
 
     <!-- Contact Section -->
     <section id="contact">
