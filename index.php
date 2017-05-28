@@ -153,6 +153,21 @@
             </div>
             <div class="row">
                 <div class="col-sm-6">
+                    <a href="http://www.youthforsewa.org.uk/" target="_blank" class="portfolio-link">
+                        <!--div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-arrow-right fa-3x"></i><br /><br />
+                                <i>Go to website</i>
+                            </div>
+                        </div-->
+                        <img src="images/portfolio/yfs.png" class="img-responsive img-thumbnail" alt="Youth for Sewa">
+                    </a>
+                    <!--<div class="portfolio-caption">
+                        <h4>Youth for Sewa</h4>
+                        <p class="text-muted"></p>
+                    </div>-->
+                </div>
+                <div class="col-sm-6">
                     <a href="http://www.marguerite.com" target="_blank" class="portfolio-link">
                         <!--div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -167,6 +182,9 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
+            </div>
+            <div class="divider-5"></div>
+            <div class="row">
                 <div class="col-sm-6">
                     <a href="http://www.saudidownstream.com" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/saudidownstream.png" class="img-responsive img-thumbnail" alt="Saudi Dowstream">
@@ -176,9 +194,6 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
-            </div>
-            <div class="divider-5"></div>
-            <div class="row">
                 <div class="col-sm-6">
                     <a href="http://www.hyauk.org" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/hya.png" class="img-responsive img-thumbnail" alt="Hindu Youth Association">
@@ -188,6 +203,9 @@
                         <p class="text-muted"></p>
                     </div>-->
                 </div>
+                <div class="divider-5"></div>
+            </div>
+            <div class="row">
                 <div class="col-sm-6">
                     <a href="http://www.miteshsevani.com/roax-accademy/" target="_blank" class="portfolio-link">
                         <img src="images/portfolio/roaxacademy.png" class="img-responsive img-thumbnail" alt="Roax Accademy">
@@ -246,9 +264,20 @@
                     <figure class="hya" data-toggle="tooltip" title="Hindu Youth Association"></figure>
                 </div>                                        
                 <div class="col-xs-6 col-sm-3">
-                    <figure class="independent" data-toggle="tooltip" title="The Independent"></figure>
+                    <figure class="esi" data-toggle="tooltip" title="ESI Media"></figure>
                 </div>                                        
-            </div>                    
+            </div>
+            
+            <div class="divider-2"></div>
+            
+            <div class="row text-center">
+                <div class="col-xs-6 col-sm-3">
+                    <figure class="independent" data-toggle="tooltip" title="The Independent"></figure>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <figure class="evening-standard" data-toggle="tooltip" title="The Evening Standard"></figure>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -261,13 +290,14 @@
                     <h4 class="section-subheading">Education</h4>
                     <p>
                         <ol>
-                            <li>S-VYASA Yoga University, Bangalore - Yoga Instructor Course, 2014</li>
-                            <li>University of Westminister, London - MSc E-commerce with Online Databases, 2009</li>                            
+                            <li>University of Westminister, London - MSc E-commerce with Online Databases, 2009</li>
                             <li>City University, London - BSc in Business Computing, 2007</li>
+                            <li>S-VYASA Yoga University, Bangalore - Yoga Instructor Course, 2014</li>
                         </ol>                    
                     </p>
                     <h4 class="section-subheading">Voluntary Work</h4>
                     <p>I have been a member of Hindu Swayamsevak Sangh (HSS) since the age of 7, which is one of the largest voluntary organisations in the world. Activities include exercise, games and education sessions. Taking regular sessions with all age groups provides me with leadership, communication and organisational skills. Regular attendance has given me team working skills as well as professional development. I am involved in planning, organising and participating in various charity events, both at local and national level.</p>
+                    <p>Sinxe April 2016, I have been volunteering as a yoga instructor at a local weekly Yoga class where we have a regular attendance of 20 students.</p>
                     <p>I taught Maths and Gujarati for 3 years on a voluntarily basis at GCSE level on weekends. This allowed me to gain valuable skills in communication, leadership, organisation and professional development.</p>
 
                     <h4 class="section-subheading">Hobbies and Extra Curricular Activities</h4>
