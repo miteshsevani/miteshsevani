@@ -277,6 +277,12 @@
                 <div class="col-xs-6 col-sm-3">
                     <figure class="evening-standard" data-toggle="tooltip" title="The Evening Standard"></figure>
                 </div>
+
+                <div class="divider-1 visible-xs"></div>
+                
+                <div class="col-xs-6 col-sm-3">
+                    <figure class="yfs" data-toggle="tooltip" title="Youth for Sewa"></figure>
+                </div>
             </div>
         </div>
     </section>

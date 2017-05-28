@@ -145,6 +145,15 @@ a.inline.first {
   background-size: contain;
   width: 80%;
   height: 80px;
+  background-position: center; 
+  margin-left: 40px;}
+
+#company figure.yfs {
+  background-image: url("../images/logos/yfs.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 100px;
   background-position: center; }
 
 @media only screen and (min-width: 992px) {
