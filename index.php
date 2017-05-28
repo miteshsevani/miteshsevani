@@ -315,7 +315,7 @@
                         <a href="https://uk.linkedin.com/pub/mitesh-sevani/1a/54b/5b1" target="_blank">
                             <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" height="44" border="0" alt="View my profile on LinkedIn">
                         </a>
-                        <a href="https://github.com/miteshsevani" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/logos/github.png" height=44 alt="View my github account"/></a>
+                        <a href="https://github.com/miteshsevani" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/logos/github.png" height=44 alt="View my github account"/></a>
                     </div>
                 </div>
             </div>        
