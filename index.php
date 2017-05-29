@@ -311,7 +311,7 @@
                     <p>Yoga is also one of my passions and I practice this regularly. I am a qualified Yoga teacher from S-VYASA university in Bangalore, India. I completed the one month Yoga Instructor Course in March 2014.</p>
                     <div class="divider-4"></div>
                     <div class="span12">
-                        <a class="inline first button btn-primary btn-lg" href="docs/CV_Mitesh_Sevani.pdf" target="_blank">View my CV</a></p>                        
+                        <a class="inline first button btn-primary btn-lg" href="docs/CV-Mitesh-Sevani.pdf" target="_blank">View my CV</a></p>                        
                         <a href="https://uk.linkedin.com/pub/mitesh-sevani/1a/54b/5b1" target="_blank">
                             <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" height="44" border="0" alt="View my profile on LinkedIn">
                         </a>
