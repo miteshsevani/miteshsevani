@@ -156,6 +156,14 @@ a.inline.first {
   height: 100px;
   background-position: center; }
 
+#company figure.nhws {
+  background-image: url("../images/logos/nhws-logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 100px;
+  background-position: center; }
+
 @media only screen and (min-width: 992px) {
   #company div.second {
     padding-left: 4em; } }

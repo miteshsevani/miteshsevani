@@ -283,6 +283,10 @@
                 <div class="col-xs-6 col-sm-3">
                     <figure class="yfs" data-toggle="tooltip" title="Youth for Sewa"></figure>
                 </div>
+
+                <div class="col-xs-6 col-sm-3">
+                    <figure class="nhws" data-toggle="tooltip" title="National Hindu Welfare Support"></figure>
+                </div>
             </div>
         </div>
     </section>
