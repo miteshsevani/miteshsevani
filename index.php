@@ -316,7 +316,7 @@
                     <div class="divider-4"></div>
                     <div class="span12">
                         <a class="inline first button btn-primary btn-lg" href="docs/CV-Mitesh-Sevani.pdf" target="_blank">View my CV</a></p>                        
-                        <a href="https://uk.linkedin.com/pub/mitesh-sevani" target="_blank">
+                        <a href="https://www.linkedin.com/in/miteshsevani/" target="_blank">
                             <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" height="44" border="0" alt="View my profile on LinkedIn">
                         </a>
                         <a href="https://github.com/miteshsevani" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/logos/github.png" height=44 alt="View my github account"/></a>
