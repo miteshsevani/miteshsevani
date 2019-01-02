@@ -18,7 +18,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 1.75;
 }
 
@@ -210,6 +210,7 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
+    font-size: 0.9em;
 }
 
 .navbar-default .nav li a:hover,
@@ -232,12 +233,13 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 12px 0;
         border: 0;
         background-color: transparent;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        background-color: #222;
     }
 
     .navbar-default .navbar-brand {
@@ -337,12 +339,6 @@ section h3.section-subheading {
     font-size: 1.2em;
     font-weight: 400;
     line-height:inherit;
-}
-
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
 }
 
 .service-heading {

@@ -24,7 +24,7 @@ header .btn-primary:hover, header .btn-primary:focus, header .btn-primary:active
   background-color: #2e6da4; }
 
 .intro-text p {
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .divider-1 {
@@ -198,10 +198,10 @@ a.inline.first {
   box-shadow: 0px 0px 20px 2px #ccc; }
 
 #portfolio img:hover {
-  -moz-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+  -moz-transform: scale(0.95);
+  -ms-transform: scale(0.95);
+  -webkit-transform: scale(0.95);
+  transform: scale(0.95);
   -moz-box-shadow: 0px 0px 0px 0px;
   -webkit-box-shadow: 0px 0px 0px 0px;
   box-shadow: 0px 0px 0px 0px; }
