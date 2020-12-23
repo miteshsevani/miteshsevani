@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="The value of unit testing"
+    />
+    <meta name="author" content="Mitesh Sevani" />
+    <title>Blog | The value of unit testing</title>
+
+    <!-- Favicon-->
+    <link rel="icon" type="image/png" href="../images/favicon.ico" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+    <link href="../css/portfolio.css" rel="stylesheet" />
+		<link href="../css/mitesh.css" rel="stylesheet" />
+		<link href="../css/blog.css" rel="stylesheet" />
+
+    <!-- Custom Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Kaushan+Script"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:600"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <body
+    id="page-top"
+    class="index"
+    data-ng-app="myApp"
+    data-ng-controller="myCtrl"
+  >
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header page-scroll">
+          <button
+            type="button"
+            class="navbar-toggle"
+            data-toggle="collapse"
+            data-target="#bs-example-navbar-collapse-1"
+          >
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand page-scroll" href="/">Mitesh Sevani</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="hidden">
+              <a href="/"></a>
+            </li>
+            <li>
+              <a class="page-scroll" href="/#skills">Skills</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="/#portfolio">Portfolio</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="/#company">Clients</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="/#about">About</a>
+            </li>
+            <li class="active">
+              <a href="/blog">Blog</a>
+            </li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+
+		<!-- Blog Section -->
+
+    <section id="blog" class="bg-light-gray">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+						<article>
+							<h1 class="section-heading">The value of unit testing</h1>
+							<div class="byline">
+								<div class="author">Mitesh Sevani</div>
+								<time pubdate datetime="2020-08-03" title="August 3rd, 2030">3<sup>rd</sup> August 2020</time>
+							</div>
+
+							<img src="images/unit-testing-1.png" alt="Unit Testing">
+
+							<p><em>Note that in this article, I will not mention the unit testing framework I am using or any framework for that matter. This article is not about promoting or opting for any particular framework, but to help developers understand the purpose and value of unit testing, and not to be put off by it like I was at first glance.</em></p>
+
+							<h2 class="section-subheading">A bit of background</h2>
+
+							<p>I have been developing since 2010 and came across the concept of unit testing sometime in 2017 whilst watching a React JS tutorial. Back then, my first thought was “I don’t get it, what’s the point?”, so I skipped past the unit testing sections of the course. Maybe I’m in the minority, but when I first came across unit testing, I did not understand its value and felt it was going to prolong the development and delivery of a product.</p>
+
+							<p>Fast forward to the present day, where I came to realise this is an old way of thinking about code. I had been working at my previous company where we were redeveloping our whole system with Node.js and React. It was here where my team lead briefly explained the benefits of unit testing and suggested we should unit test our code. Although we never got to the point of actually implementing it, my curiosity for unit testing started to grow. At this point, I was a lot more confident with JavaScript than before and felt much better prepared to learn and apply unit testing. It also happened to be when I felt it was time for a new challenge in my career and found that many front-end developer roles were looking for candidates who had some experience with unit testing.</p>
+
+							<h2 class="section-subheading">What is unit testing?</h2>
+
+							<p>In a nutshell, unit testing is a method where small parts of the code — a <em>unit</em> — are tested in isolation to ensure the code functions as expected and is fit for use. For this, it helps that we keep each function as simple as possible and that it only fulfils one function and not multiple functions. One method to ensure we do this is to use the test-driven development (TDD) process, but this is beyond the scope of this article so I’ll leave it there.</p>
+
+							<h2 class="section-subheading">My eureka moment</h2>
+
+							<p>One of the companies I applied for was The Telegraph. As part of the application process for the role, I was asked to complete a coding challenge which involved writing unit tests to accompany my JavaScript. One of the requirements was to output a specific format for an article and comment publish date and time. The time was required to be displayed in a 12-hour format with an “AM” or “PM” suffix. As I was testing the formatDate function with a time of midnight, the test failed.</p>
+
+							<img src="images/unit-testing-2.png" alt="Code">
+
+							<p>This is when I had my eureka moment! I wrote a unit test to test the format of the date and time. The format which needed to be displayed was 12.00AM, however, I was getting 00:00AM. If I hadn’t written a unit test to test for this scenario, it would have been missed. Whilst this may seem minor, it highlights the value and need for unit testing.</p>
+
+							<h2 class="section-subheading">Practice, practice, practice</h2>
+
+							<p>For the past 3 months, I have been writing a lot more unit tests. This has enabled me to not just improve my knowledge and experience, but to appreciate the value of unit testing. I found it especially useful when refactoring or updating code. One of the tasks was to refactor some code to make it more efficient and use es6 features (mainly converting the code into a class). The functionality needed to remain the same. As I was refactoring, a few existing tests were failing. This meant that my refactored code was not functioning correctly.</p>
+
+							<p>Unit testing in this instance gave me confidence that my refactor didn’t break any of the existing functionality.</p>
+
+							<h2 class="section-subheading">Recognising the value of unit testing</h2>
+
+							<p>After a few months of unit testing, I’ve come to the following conclusion about why unit testing is valuable:</p>
+
+							<ul>
+								<li>Fit for purpose: Ensuring that the code I write is fulfilling its purpose and not producing unexpected results</li>
+								<li>Robust: In that, it has been written to withstand varying data samples and the returning values remain as expected</li>
+								<li>Confidence: In that, whether I write new code or refactor existing code, it will not break and/or introduce bugs in other parts of the code</li>
+							</ul>
+
+							<p>These are a few of many reasons why we should unit test code. I can now say with confidence that unit testing is well worth the time and effort to ensure the software or code I write is secure, robust, and fit for purpose.</p>
+						</article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-xs-12">
+            <span class="copyright">Copyright &copy; <span id="cyear"></span> Mitesh Sevani - All rights reserved.</span>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Google Analytics-->
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "//www.google-analytics.com/analytics.js",
+        "ga"
+      );
+      ga("create", "UA-68171040-1", "auto");
+			ga("send", "pageview");
+
+			// Display current year
+			document.getElementById("cyear").innerHTML = new Date().getFullYear();
+
+    </script>
+  </body>
+</html>

@@ -145,7 +145,7 @@ a.inline.first {
   background-size: contain;
   width: 80%;
   height: 80px;
-  background-position: center; 
+  background-position: center;
   margin-left: 40px;}
 
 #company figure.yfs {
@@ -156,8 +156,8 @@ a.inline.first {
   height: 100px;
   background-position: center; }
 
-#company figure.nhws {
-  background-image: url("../images/logos/nhws-logo.png");
+#company figure.telegraph {
+  background-image: url("../images/logos/telegraph.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
@@ -222,8 +222,5 @@ section h3.section-subheading,
 section h4.section-subheading {
   font-family: "Roboto", sans-serif;
   line-height: 1.7em;
-  font-size: 1.2em; 
+  font-size: 1.2em;
   margin-top: 2em;}
-
-#contact .form-group textarea.form-control {
-  height: 150px !important; }
