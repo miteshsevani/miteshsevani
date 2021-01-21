@@ -11,25 +11,41 @@ p {
   margin: 12px 0;
 }
 
-#blog img {
+img {
   margin: 2em 0;
   max-width: 100%;
 }
 
-#blog h1, h2 {
+h1, h2 {
   margin-bottom: 0.6em;
   font-weight: 900;
   text-transform: none;
 }
 
-#blog h1 {
+h1 {
   margin-top: 1em;
 }
 
-#blog h2 {
+h2 {
   margin-top: 1.8em;
 }
 
-#blog .author {
+.author {
   font-weight: 500;
+}
+
+a {
+  color: #52a0e3;
+}
+
+a:hover {
+  color: #337ab7;
+}
+
+.blog__list {
+  font-size: 22px;
+}
+
+.blog__date {
+  font-size: 18px;
 }
